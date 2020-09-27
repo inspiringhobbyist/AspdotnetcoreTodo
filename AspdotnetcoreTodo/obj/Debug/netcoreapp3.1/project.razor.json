@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\user\\Documents\\dotnetexperiments\\AspdotnetcoreTodo\\AspdotnetcoreTodo\\Views\\Todo\\index.cshtml",
+      "TargetPath": "Views\\Todo\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\user\\Documents\\dotnetexperiments\\AspdotnetcoreTodo\\AspdotnetcoreTodo\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

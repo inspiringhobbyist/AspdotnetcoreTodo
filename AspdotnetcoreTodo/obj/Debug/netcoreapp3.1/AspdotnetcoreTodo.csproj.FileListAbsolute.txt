@@ -1,0 +1,8 @@
+C:\Users\user\Documents\dotnetexperiments\AspdotnetcoreTodo\AspdotnetcoreTodo\obj\Debug\netcoreapp3.1\AspdotnetcoreTodo.csprojAssemblyReference.cache
+C:\Users\user\Documents\dotnetexperiments\AspdotnetcoreTodo\AspdotnetcoreTodo\obj\Debug\netcoreapp3.1\AspdotnetcoreTodo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\dotnetexperiments\AspdotnetcoreTodo\AspdotnetcoreTodo\obj\Debug\netcoreapp3.1\AspdotnetcoreTodo.AssemblyInfo.cs
+C:\Users\user\Documents\dotnetexperiments\AspdotnetcoreTodo\AspdotnetcoreTodo\obj\Debug\netcoreapp3.1\AspdotnetcoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dotnetexperiments\AspdotnetcoreTodo\AspdotnetcoreTodo\obj\Debug\netcoreapp3.1\AspdotnetcoreTodo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\dotnetexperiments\AspdotnetcoreTodo\AspdotnetcoreTodo\obj\Debug\netcoreapp3.1\AspdotnetcoreTodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\dotnetexperiments\AspdotnetcoreTodo\AspdotnetcoreTodo\obj\Debug\netcoreapp3.1\AspdotnetcoreTodo.RazorAssemblyInfo.cache
+C:\Users\user\Documents\dotnetexperiments\AspdotnetcoreTodo\AspdotnetcoreTodo\obj\Debug\netcoreapp3.1\AspdotnetcoreTodo.RazorAssemblyInfo.cs
